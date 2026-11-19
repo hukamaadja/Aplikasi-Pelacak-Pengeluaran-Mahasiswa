@@ -2,7 +2,7 @@
 import os
 import tkinter as tk
 
-from services import ExpenseService
+from service import ExpenseService
 from storage import muat_transaksi
 from ui import ExpenseApp
 
